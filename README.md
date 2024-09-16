@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React js**
 
-- 👨‍💻 All of my projects are available at [zeeshanafzal-348a3.web.app](zeeshanafzal-348a3.web.app)
+- 👨‍💻 All of my projects are available at [zeeshanafzal-348a3.web.app](https://zeeshan-portfolio-rho.vercel.app/)
 
 - 📫 How to reach me **03462193093**
 

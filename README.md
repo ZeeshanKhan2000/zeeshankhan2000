@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshankhan2000&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshankhan2000" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at (https://zeeshan-portfolio-rho.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://afzal-portfolio-rust.vercel.app)
 
-- 📫 How to reach me **03462193093**
+- 📫 How to reach me **03232953485**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
